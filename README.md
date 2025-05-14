@@ -43,7 +43,8 @@ A moderate **positive correlation** was observed between temperature and PM1 lev
 
 ## 👤 Author
 
-Toracee-tech  
-Email: Ehijie Collins Agbadu  
+Ehijie Collins Agbadu  
+Email: ehijie.agbadu@gmail.com 
 GitHub: [github.com/collinsjie
+
 Linkedin: https://www.linkedin.com/in/ehijie-agbadu-57732242/
